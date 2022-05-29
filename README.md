@@ -2,11 +2,6 @@
 <a href="https://imgur.com/pyZSJUR"><img src="https://i.imgur.com/pyZSJUR.jpg" title="source: imgur.com" /></a>
 
 
-### Salut 👋
-
-Sou um desenvolvedor full stack procurando resolver problemas do mundo real. Tenho paixão por aprender e compartilhar meu conhecimento com os outros o mais publicamente possível. Se você encontrou valor em algo que criei, sinta-se à vontade para me chamar ou me dar um pouco de ♥. Não hesite em entrar em contato comigo caso queira se juntar a mim.
-
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/sotie-ghislain-bustos-dele-80379a162/"><img height="24" src="https://i.imgur.com/jfJ4J09.png" title="source: imgur.com"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Soti40538501"><img height="24" src="https://i.imgur.com/JolaK2N.png" title="source: imgur.com"></a>&nbsp;&nbsp;
